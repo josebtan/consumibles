@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/consumiblesimsol/static/css/main.13a111c5.css",
-    "main.js": "/consumiblesimsol/static/js/main.9a523d00.js",
-    "index.html": "/consumiblesimsol/index.html",
-    "main.13a111c5.css.map": "/consumiblesimsol/static/css/main.13a111c5.css.map",
-    "main.9a523d00.js.map": "/consumiblesimsol/static/js/main.9a523d00.js.map"
+    "main.css": "./static/css/main.13a111c5.css",
+    "main.js": "./static/js/main.cb2d9702.js",
+    "index.html": "./index.html",
+    "main.13a111c5.css.map": "./static/css/main.13a111c5.css.map",
+    "main.cb2d9702.js.map": "./static/js/main.cb2d9702.js.map"
   },
   "entrypoints": [
     "static/css/main.13a111c5.css",
-    "static/js/main.9a523d00.js"
+    "static/js/main.cb2d9702.js"
   ]
 }
